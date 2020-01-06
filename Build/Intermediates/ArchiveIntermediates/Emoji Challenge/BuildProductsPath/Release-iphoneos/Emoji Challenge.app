@@ -1,0 +1,1 @@
+/Users/Macbook/Desktop/60 Dollars Apps/Emoji Challenge/Build/Intermediates/ArchiveIntermediates/Emoji Challenge/InstallationBuildProductsLocation/Applications/Emoji Challenge.app

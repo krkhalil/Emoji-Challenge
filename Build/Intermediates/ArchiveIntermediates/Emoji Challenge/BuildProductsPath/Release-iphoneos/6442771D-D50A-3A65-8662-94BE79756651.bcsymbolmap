@@ -1,0 +1,119 @@
+BCSymbolMap Version: 2.0
+-[ViewController viewDidLoad]
+-[ViewController viewWillAppear:]
+-[ViewController playButtonTouched:]
+_OBJC_CLASS_$_ViewController
+_OBJC_METACLASS_$_ViewController
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/Macbook/Desktop/60 Dollars Apps/Emoji Challenge/Emoji Challenge/ViewController.m
+/Users/Macbook/Desktop/60 Dollars Apps/Emoji Challenge
+_OBJC_CLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/Emoji Challenge/Emoji Challenge/main.m
+main
+-[CategoryVC viewDidLoad]
+-[CategoryVC guessEmojiButton:]
+-[CategoryVC guessMovieButton:]
+_OBJC_CLASS_$_CategoryVC
+_OBJC_METACLASS_$_CategoryVC
+/Users/Macbook/Desktop/60 Dollars Apps/Emoji Challenge/Emoji Challenge/CategoryVC.m
+-[GameVC viewDidLoad]
+-[GameVC b1:]
+-[GameVC b2:]
+-[GameVC b3:]
+-[GameVC b4:]
+-[GameVC skip:]
+-[GameVC setScreen]
+-[GameVC setArray]
+-[GameVC showFailAlert]
+___23-[GameVC showFailAlert]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+-[GameVC showFailAlertFinal]
+___28-[GameVC showFailAlertFinal]_block_invoke
+___copy_helper_block_.179
+___destroy_helper_block_.180
+-[GameVC showFailAlertAttempt]
+___30-[GameVC showFailAlertAttempt]_block_invoke
+___copy_helper_block_.184
+___destroy_helper_block_.185
+-[GameVC showPassedAlert]
+___25-[GameVC showPassedAlert]_block_invoke
+___copy_helper_block_.193
+___destroy_helper_block_.194
+-[GameVC showPassedAlertFinal]
+___30-[GameVC showPassedAlertFinal]_block_invoke
+___copy_helper_block_.202
+___destroy_helper_block_.203
+-[GameVC pointsLabel]
+-[GameVC setPointsLabel:]
+-[GameVC levelLabel]
+-[GameVC setLevelLabel:]
+-[GameVC emojiImageView]
+-[GameVC setEmojiImageView:]
+-[GameVC b1]
+-[GameVC setB1:]
+-[GameVC b2]
+-[GameVC setB2:]
+-[GameVC b3]
+-[GameVC setB3:]
+-[GameVC b4]
+-[GameVC setB4:]
+-[GameVC .cxx_destruct]
+_OBJC_CLASS_$_GameVC
+_OBJC_IVAR_$_GameVC.sum
+_OBJC_IVAR_$_GameVC.buttonCount
+_OBJC_IVAR_$_GameVC.index
+_OBJC_IVAR_$_GameVC.score
+_OBJC_IVAR_$_GameVC.count
+_OBJC_IVAR_$_GameVC.attempts
+_OBJC_IVAR_$_GameVC._b1
+_OBJC_IVAR_$_GameVC.answerString
+_OBJC_IVAR_$_GameVC._b2
+_OBJC_IVAR_$_GameVC._b3
+_OBJC_IVAR_$_GameVC._b4
+_OBJC_IVAR_$_GameVC._pointsLabel
+_OBJC_IVAR_$_GameVC.dataArray
+_OBJC_IVAR_$_GameVC.SelectedItem
+_OBJC_IVAR_$_GameVC._emojiImageView
+_OBJC_IVAR_$_GameVC._levelLabel
+_OBJC_IVAR_$_GameVC.data
+_OBJC_IVAR_$_GameVC.t
+___block_descriptor_tmp
+___block_descriptor_tmp.181
+___block_descriptor_tmp.186
+___block_descriptor_tmp.195
+___block_descriptor_tmp.204
+_OBJC_IVAR_$_GameVC.target
+_OBJC_METACLASS_$_GameVC
+_OBJC_IVAR_$_GameVC.n1
+_OBJC_IVAR_$_GameVC.n2
+_OBJC_IVAR_$_GameVC.n3
+_OBJC_IVAR_$_GameVC.targetNumber
+_OBJC_IVAR_$_GameVC.randomButton
+_OBJC_IVAR_$_GameVC.timer
+/Users/Macbook/Desktop/60 Dollars Apps/Emoji Challenge/Emoji Challenge/GameVC.m
+/Users/Macbook/Desktop/60 Dollars Apps/Emoji Challenge/Emoji Challenge/GameVC.h
+__destroy_helper_block_
+__copy_helper_block_
+__30-[GameVC showPassedAlertFinal]_block_invoke
+__25-[GameVC showPassedAlert]_block_invoke
+__30-[GameVC showFailAlertAttempt]_block_invoke
+__28-[GameVC showFailAlertFinal]_block_invoke
+__23-[GameVC showFailAlert]_block_invoke
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._window
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/Emoji Challenge/Emoji Challenge/AppDelegate.m
+/Users/Macbook/Desktop/60 Dollars Apps/Emoji Challenge/Emoji Challenge/AppDelegate.h
